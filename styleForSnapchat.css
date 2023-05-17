@@ -1,5 +1,5 @@
 body {
-  background-color: powderblue;
+  background-color: lightcoral;
 }
 h1 {
   color: blue;
@@ -58,4 +58,10 @@ p {
   top: 75px;
   left: 5px;
   width: 120%;
+}
+
+#bottomMiddleRight {
+  position: absolute;
+  top: 325px;
+  right: 100px;
 }

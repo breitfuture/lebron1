@@ -1,5 +1,5 @@
 body {
-  background-color: powderblue;
+  background-color: burlywood;
 }
 h1 {
   color: blue;
@@ -58,4 +58,9 @@ p {
   top: 75px;
   left: 5px;
   width: 120%;
+}
+#bottomMiddleLeft {
+  position: absolute;
+  top: 500px;
+  left: 315px;
 }

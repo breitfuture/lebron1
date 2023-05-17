@@ -1,0 +1,52 @@
+
+Chatgpt usage:
+-What is Snapchat?
+Snapchat is a social media platform that allows users to share photos, videos, and messages that disappear after a short period of time. The app was created in 2011 by Evan Spiegel, Bobby Murphy, and Reggie Brown while they were students at Stanford University, and it quickly became popular among young people. One of the key features of Snapchat is its disappearing content, which allows users to share photos and videos that disappear after a set period of time, typically between one and ten seconds. This feature has made Snapchat popular for sharing fun and lighthearted content with friends and followers, as well as for sharing more intimate or personal moments that users may not want to have permanently recorded online. 
+
+-What is Instagram?
+Instagram is a social media platform that was created in 2010 as a mobile app for sharing photos and videos with friends and followers. It allows users to post and edit photos and videos, apply filters, and add captions and hashtags to their content. The app has since evolved to include a variety of features, including messaging, live streaming, and e-commerce capabilities. One of the defining features of Instagram is its emphasis on visual content. Users can scroll through a feed of photos and videos posted by the accounts they follow, and can interact with this content by liking, commenting, and sharing. Instagram also offers a range of tools for creators and businesses to engage with their audiences, including sponsored content, influencer marketing, and analytics.
+
+-What is Facebook?
+Facebook is a social networking platform that was founded in 2004 by Mark Zuckerberg. It allows users to create a personal profile, connect with friends and family, share updates, photos, and videos, and join groups and communities based on their interests. The platform has grown to become one of the largest social media networks in the world, with over 2.8 billion monthly active users as of 2021. Facebook is available in multiple languages and is accessible on a variety of devices, including smartphones, tablets, and computers. 
+
+What is TikTok?
+TikTok is a social media app that allows users to create and share short-form videos, typically between 15 and 60 seconds long. The app was created by the Chinese tech company ByteDance and launched globally in 2018. Since then, it has become one of the most popular social media platforms in the world, particularly among younger generations. One of the key features of TikTok is its algorithm, which uses machine learning to analyze user behavior and preferences, and to suggest content that is likely to be of interest to them. This has made the app particularly popular for discovering new music and artists, as well as for discovering viral trends and challenges. 
+
+Snapchat Facts: https://thesocialshepherd.com/blog/snapchat-statistics
+Instagram Facts: https://www.thefactsite.com/instagram-facts/
+Facebook Facts: https://www.searchenginejournal.com/facebook-facts/359408/
+TikTok Facts: https://www.yellowhead.com/blog/tiktok-facts-and-stats/
+
+TikTok Scandal: 
+https://www.scmp.com/news/asia/article/3205994/why-india-banned-tiktok-and-what-us-can-learn-pressure-mounts-biden-follow-suit
+https://techcrunch.com/2023/01/01/india-set-an-incredibly-important-precedent-by-banning-tiktok-fcc-commissioner-says/
+https://economictimes.indiatimes.com/tech/technology/here-are-the-countries-that-have-bans-on-tiktok/articleshow/98949332.cms
+
+Snapchat Scandal:
+https://www.ftc.gov/news-events/news/press-releases/2014/05/snapchat-settles-ftc-charges-promises-disappearing-messages-were-false
+
+Facebook Scandal:
+https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html
+https://www.theguardian.com/technology/2019/mar/17/the-cambridge-analytica-scandal-changed-the-world-but-it-didnt-change-facebook
+
+Instagram Scandal:
+https://www.cnn.com/2022/09/06/tech/instagram-fine-teens-privacy/index.html
+https://www.reuters.com/technology/irish-regulator-fines-instagram-400-million-over-chidrens-data-2022-09-05/
+
+
+What social media apps do with data:
+https://www.techtarget.com/whatis/feature/6-common-social-media-privacy-issues
+https://www.loyola.edu/academics/emerging-media/blog/2017/3-ways-that-social-media-knows-you-better-than-your-friends-and-family-do
+https://www.mcafee.com/blogs/privacy-identity-protection/what-do-social-media-companies-know-about-you/
+
+Code Help:
+Quiz: 
+https://www.geeksforgeeks.org/how-to-create-a-simple-javascript-quiz/
+https://simplestepscode.com/javascript-quiz-tutorial/
+
+Formatting Websites:
+https://www.w3schools.com/html/html_layout.asp
+
+Survey:
+https://www.surveystance.com/smiley-face-survey-kiosk-app/
+
