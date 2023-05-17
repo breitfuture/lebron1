@@ -1,0 +1,22 @@
+﻿Final Project Documentation
+Group members: Adam Biewen, Jake Breitbach, Isaiah Subah
+Final project: Data privacy/social media platforms website
+Sources are listed in txt file labeled sources in the github repository
+Criteria:
+        Usability: 10/10
+        We believe that our website is very user friendly and anyone who visits our website should have no issues navigating the material. The home page is very simple, as it explicitly states to choose a social media platform to learn more about. Once you visit the social media website (whichever one is chosen), the information is displayed about data privacy. There are also links that are well described as to what they do. Overall, the website is uncomplicated and quiet, but gets the job done.
+        
+        
+        Educational Value: 24/25
+        We believe that our website displays a good amount of relevant information that most users would consider useful or interesting. Our information is also displayed in a way that corresponds with our personas as well. One section that explains what each social media platform will be helpful for the persona of the older generation because they are much more likely to be less informed on types of applications. The fun facts will likely be worthwhile to both personas. For the older generation I think these fun facts will open up eyes to how big and worldwide popular these platforms are. For the younger generation, some of these facts will not be surprising as our generation likely understands how huge these applications are, however some of these facts are pretty interesting and relatable to us as we are the biggest demographic who uses social media. As far as data privacy information goes, we have really good content. The next thing users will read will likely be the scandal for the specified application. We think this will be the highlight of the website because each platform has a unique scandal/infractions specifically regarding data privacy laws. I think people will find these short stories interesting for a couple reasons. Firstly, these scandals are relating to applications most of us use. Two, for some reason these scandals seem to get little attention/news coverage so it is likely people will have not heard of them. The last couple bits of our website include a quick paragraph or two regarding what each platform does and can do with our information, as well as a short quiz.
+
+
+        
+
+
+        Interactivity: 23/25
+        We believe that our website includes a good amount of interactivity for the user to be engaged in our content. The first interactive implementation is when the user can pick which social media platform they want to learn about. This will bring them to a new website page where they can learn and read about the app. They are also able to take a quick quiz seeing what they know/learned about the app. On the quiz users will be able to click on answers and see if they are correct and click to the next questions when they want to move on. Users are also able to take a quick survey if they would like as well. The reason I do not give us full points is because we did not have time to implement things like a link back to the homepage from the quick and a link from the survey back to the homepage. 
+
+
+        Aesthetics: 8/10
+        We believe that the aesthetics of our website is not our strongest suit. Formatting the website was difficult. Displaying information in an appealing way is not any of our strengths so we figured aesthetics would be a weakness on our website. We tried to add some pictures and format the informational text in a way that would be easy to read and look at, but I do not think the display of the website looks “pretty” per se. It does get the job done, but it could definitely be improved with some creativity and finishing touches.
